@@ -1,0 +1,8 @@
+[
+    { "command": "insert_snippet", "args": {"contents": "Date: $1\nTime: $2\nSomething else: $0"} },
+    { "command": "insert_date", "args": {"format": "%x"} },
+    { "command": "next_field" },
+    { "command": "insert_date", "args": {"format": "%X"} },
+    { "command": "next_field" }
+]
+

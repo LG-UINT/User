@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CoolFormat",
+		"CTags",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"InsertDate",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"Terminal"
+	]
+}
